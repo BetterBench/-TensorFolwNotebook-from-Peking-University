@@ -2,7 +2,7 @@
 该源码是北京大学公开课TensorFlow1.x的网课中源码的汇总，包括了网课中小组成员的实战项目源码
 
 ## 源码地址
-https://github.com/823316627bandeng/TensorFolw1.x-Notebook-from-Peking-University
+https://github.com/823316627bandeng/-TensorFolwNotebook-from-Peking-University/tree/master
 ## 助教笔记
 老师课上PPT上的补充或者是详细讲解
 网盘链接: https://pan.baidu.com/s/1VEwSjdwGzgD8YAyMiyIi_Q  密码: ratr
